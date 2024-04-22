@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is RAMANANJATOVO Johnny and I'm a third year student, from France 🇫🇷</h2>
+<h2 align="left">Hi 👋!I'm RAMANANJATOVO Johnny and I'm a first year apprentice engineer, from France 🇫🇷</h2>
 
 ###
 
