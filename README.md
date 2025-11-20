@@ -1,87 +1,120 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="Visitor Badge"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Johnny+RAMANANJATOVO!;" alt="Typing SVG"/>
-</h1>
-
-<h3 align="center">
-  A passionate second-year apprentice engineer from France 🇫🇷
-</h3>
-
-<br>
-
 <div align="center">
-  <img height="180em" src="https://media0.giphy.com/media/VXJWhaO7afRe/giphy.gif?cid=ecf05e47nxxyc03qpgpn3b0jhzh308j7l6hpf8cq0t96j0kf&rid=giphy.gif&ct=g" alt="Coding GIF"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Johnny+RAMANANJATOVO;Backend+%26+GenAI+Engineer;Apprentice+@+Worldline;" alt="Typing SVG"/>
+  
+  <h3>
+    🚀 3rd Year Engineering Apprentice @ <a href="https://www.esiee.fr/">ESIEE Paris</a>
+  </h3>
+  
+  <p>
+     <i>Specialized in Backend Development, SAP Systems & Generative AI Agents</i>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/johnny-rama" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:johnny.ramananjatovo@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="https://discordapp.com/users/DarkGhost#1103" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-DarkGhost-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🛠️ Skills & Tools
-
-Here are some of the technologies and tools I work with:
-
-**Languages:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo" />
-</p>
-
-**Frameworks & Libraries:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo" />
-</p>
-
-**Tools & Platforms:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" width="42" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" width="42" alt="confluence logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo" />
-</p>
+<div align="center">
+  <img src="https://github.com/salesp07/salesp07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Johnny's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Johnny's Top Languages" />
-  </p>
+I am an **Apprentice Engineer** based in **Paris**, currently working at **Worldline** (European Leader in Payments). My focus is on building robust backend systems and integrating **Generative AI** into enterprise workflows.
+
+* 🔭 **Currently working on:** AI-assisted Code Review systems & SAP Orchestration.
+* 🌱 **Learning:** Multi-agent orchestration & Advanced Cloud Architectures.
+* 🎓 **Education:** Eng. Degree at **ESIEE Paris** | Licence at **CNAM** (16.4/20).
+* 🌍 **Languages:** French 🇫🇷, Malagasy 🇲🇬, English 🇬🇧 (TOEIC 925), German 🇩🇪, Russian 🇷🇺.
+
+---
+
+## 🛠️ Technical Stack
+
+Based on my experience in **SAP environments** and **Mobile/Web Development**:
+
+<div align="center">
+
+| **Core Languages** | **Frameworks & AI** | **SAP & Enterprise** | **Tools & DevOps** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,python,cs,c,js,kotlin,groovy&perline=3" /> | <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,maven&perline=3" /> | <img src="https://img.shields.io/badge/SAP-ABAP-0070F2?style=flat-square&logo=sap&logoColor=white" /><br><img src="https://img.shields.io/badge/SAP-HANA-0070F2?style=flat-square&logo=sap&logoColor=white" /><br><img src="https://img.shields.io/badge/GenAI-Agents-00A67E?style=flat-square&logo=openai&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,postgres,jira,idea&perline=3" /> |
+
+</div>
 
 ---
 
-## 📫 Get In Touch
+## 📁 Featured Projects
 
-<p align="center">
-  <a href="https://discordapp.com/users/DarkGhost#1103" target="_blank"> <img src="https://img.shields.io/badge/Discord-DarkGhost%231103-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ramananmichel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ramananmichel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shenron/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-shenron-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐱 ChatVaBien (Java NIO)</h3>
+      <p align="center">
+        Real-time chat application built from scratch using <b>Java NIO (Non-blocking I/O)</b>.
+        <br/>
+        <br/>
+        <a href="https://github.com/Whitemes/ChatVaBien">
+          <img src="https://img.shields.io/badge/View_Project-Code-2ea44f?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <ul>
+        <li>Custom binary protocol implementation.</li>
+        <li>High-performance concurrent handling.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 WordrawidZ (Android)</h3>
+      <p align="center">
+        Educational Android game developed with <b>Kotlin</b> and <b>Jetpack Compose</b> (MVVM).
+        <br/>
+        <br/>
+        <a href="https://github.com/Whitemes/WordrawidZ">
+          <img src="https://img.shields.io/badge/View_Project-Code-2ea44f?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <ul>
+        <li>Modern UI with Jetpack Compose.</li>
+        <li>Clean Architecture & State Management.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+> **Professional Highlight:** At **Worldline**, I developed an AI-assisted Code Review system using multi-agent orchestration and automated SAP license management tools using CDS Views.
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center"> 
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Johnny's GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Johnny's Top Languages" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="Visitor Badge"/>
+</div>
