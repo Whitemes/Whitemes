@@ -52,7 +52,7 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
 ## 💼 Professional Experience
 
 ### 🏢 Apprentice Software Engineer @ **Worldline**
-> *Focus: Innovating within the Merchant Services division.*
+> *Focus: Innovating within the Corporate Team.*
 
 * 🤖 **AI-Assisted Code Review:** Developed a multi-agent system to analyze code quality and suggest improvements automatically.
 * 🔄 **SAP Automation:** Created automated tools for SAP license management using **CDS Views** and **ABAP**.
