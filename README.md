@@ -183,20 +183,32 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
 
 ---
 
-## ⚡ GitHub Stats
+<br/>
+<h2>⚡ GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whitemes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" width="95%"/>
+  <a href="https://github.com/Whitemes/Whitemes/actions/workflows/snake.yml">
+    <img src="https://github.com/Whitemes/Whitemes/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  </a>
 </div>
+
 <br/>
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whitemes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180" />
-</div>
-<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" height="180" />
-</div>
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Whitemes&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Whitemes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Whitemes's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whitemes&theme=tokyonight&hide_border=true&background=0D1117" alt="Whitemes's Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Whitemes&style=for-the-badge&color=2e3440" alt="Profile Views"/>
 </div>
