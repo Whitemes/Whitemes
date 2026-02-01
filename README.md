@@ -192,7 +192,7 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Whitemes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&cache_seconds=86400" alt="Whitemes Stats" />
+        <img src="https://whitemes-stats.vercel.app/api?username=Whitemes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="Whitemes Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://streak-stats.demolab.com/?user=Whitemes&theme=tokyonight&hide_border=true&background=0D1117" alt="Whitemes Streak" />
@@ -200,7 +200,7 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://whitemes-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
   
   <br/><br/>
   
