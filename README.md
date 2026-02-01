@@ -180,7 +180,9 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
   </tr>
 </table>
 </div>
----
+
+<br/>
+
 <h2>⚡ GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/Whitemes/Whitemes/actions/workflows/snake.yml">
