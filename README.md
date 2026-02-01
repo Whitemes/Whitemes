@@ -186,22 +186,17 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Whitemes/Whitemes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whitemes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" width="95%"/>
 </div>
 <br/>
 <div align="center"> 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Whitemes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="Johnny's GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" alt="Johnny's Top Languages" height="180" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whitemes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" height="180" />
 </div>
 <div align="center">
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Whitemes.Whitemes" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Whitemes&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
