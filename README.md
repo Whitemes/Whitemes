@@ -180,32 +180,27 @@ I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at
   </tr>
 </table>
 </div>
-
 ---
 <h2>⚡ GitHub Stats</h2>
-
 <div align="center">
   <a href="https://github.com/Whitemes/Whitemes/actions/workflows/snake.yml">
     <img src="https://github.com/Whitemes/Whitemes/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
   </a>
 </div>
-
 <br/>
-
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Whitemes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Whitemes Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Whitemes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&cache_seconds=86400" alt="Whitemes Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Whitemes&theme=tokyonight&hide_border=true&background=0D1117" alt="Whitemes Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Whitemes&theme=tokyonight&hide_border=true&background=0D1117" alt="Whitemes Streak" />
       </td>
     </tr>
   </table>
-
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitemes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
   
   <br/><br/>
   
