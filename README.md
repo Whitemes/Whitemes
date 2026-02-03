@@ -10,7 +10,7 @@
     <i>Bridging the gap between <b>Enterprise ERP Systems</b> and <b>Modern AI Agents</b>.</i>
   </p>
   <p>
-    <a href="https://linkedin.com/in/johnny-rama" target="_blank">
+    <a href="https://linkedin.com/in/johnny-ramananjatovo" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
