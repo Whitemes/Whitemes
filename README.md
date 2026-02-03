@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **3rd Year Engineering Student** at **ESIEE Paris**, currently working at **Worldline** (European Leader in Payments). My expertise lies in modernizing legacy architectures by integrating **Generative AI** and orchestrating complex workflows.
+I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at **Worldline** (European Leader in Payments). My expertise lies in modernizing legacy architectures by integrating **Generative AI** and orchestrating complex workflows.
 
 * 🔭 **Current Focus:** Developing **AI-assisted Code Review systems** & automating SAP processes.
 * 🌱 **Learning:** Multi-agent orchestration & Cloud Architecture (GCP).
