@@ -4,7 +4,7 @@
     🚀 AI & Data Engineer | Apprentice @ <a href="https://worldline.com/" target="_blank">Worldline</a>
   </h3>
   <h2>
-       <a href="https://whitemes.github.io/"> My PORTFOLIO</a>
+       <a href="https://whitemes.dev/"> My PORTFOLIO</a>
   </h2>
   <p>
     <i>Bridging the gap between <b>Enterprise ERP Systems</b> and <b>Modern AI Agents</b>.</i>
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;
-    <a href="https://whitemes.github.io/" target="_blank">
+    <a href="https://whitemes.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Check_It-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
