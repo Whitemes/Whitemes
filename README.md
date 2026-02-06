@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;AI+%26+Data+Engineer;Building+AI-Powered+Enterprise+Solutions;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;AI+Engineer;Building+AI-Powered+Enterprise+Solutions;" alt="Typing SVG"/>
   <h3>
     🚀 AI Engineer | Apprentice @ <a href="https://worldline.com/" target="_blank">Worldline</a>
   </h3>
