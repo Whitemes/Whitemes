@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;AI+Engineer;Building+AI-Powered+Enterprise+Solutions;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;Full-Stack+Software+Engineer;Building+AI-Powered+Solutions;" alt="Typing SVG"/>
   <h3>
-    🚀 AI Engineer | Apprentice @ <a href="https://worldline.com/" target="_blank">Worldline</a>
+    🚀 Full-Stack Engineer | Apprentice @ <a href="https://worldline.com/" target="_blank">Worldline</a>
   </h3>
   <h2>
        <a href="https://whitemes.dev/"> My PORTFOLIO</a>
   </h2>
   <p>
-    <i>Bridging the gap between <b>Enterprise ERP Systems</b> and <b>Modern AI Agents</b>.</i>
+    <i>Building <b>Full-Stack Applications</b> enhanced with <b>Generative AI</b>.</i>
   </p>
   <p>
     <a href="https://linkedin.com/in/johnny-ramananjatovo" target="_blank">
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at **Worldline** (European Leader in Payments). My expertise lies in modernizing legacy architectures by integrating **Generative AI** and orchestrating complex workflows.
+I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at **Worldline** (European Leader in Payments). I build full-stack applications and integrate **Generative AI** to automate and optimize complex workflows.
 
 * 🔭 **Current Focus:** Developing **AI-assisted Code Review systems** & automating SAP processes.
 * 🌱 **Learning:** Multi-agent orchestration & Cloud Architecture (GCP).
@@ -40,7 +40,7 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
 
 <div align="center">
 
-| **Backend & Core** | **GenAI & Data** | **SAP & Enterprise** | **DevOps & Tools** |
+| **Backend & Core** | **GenAI & Integration** | **SAP & Enterprise** | **DevOps & Tools** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=java,python,kotlin,c,cs&perline=3" /> | <img src="https://img.shields.io/badge/GenAI-Agents-00A67E?style=flat-square&logo=openai&logoColor=white" /><br/><img src="https://img.shields.io/badge/Whisper-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/><img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/><img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> | <img src="https://img.shields.io/badge/SAP-ABAP-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-S%2F4HANA-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-CPI-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/CDS-Views-0070F2?style=flat-square&logo=sap&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,postgres&perline=3" /> |
 | <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,ts&perline=3" /> | <img src="https://img.shields.io/badge/n8n-Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" /><br/><img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" /> | | <img src="https://skillicons.dev/icons?i=gitlab,maven,idea,supabase,tailwind&perline=3" /> |
@@ -51,7 +51,7 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
 
 ## 💼 Professional Experience
 
-### 🏢 Apprentice Software & AI Engineer @ **Worldline**
+### 🏢 Apprentice Full-Stack & AI Developer @ **Worldline**
 > *Sept 2023 – Present | European Leader in Payments*
 
 * 🤖 **AI-Assisted Code Review:** Designed and deployed a multi-agent pipeline (LLMs) for semantic code analysis and optimization.
@@ -63,6 +63,7 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
 ## 📁 Featured Projects
 
 <div align="center">
+
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -179,17 +180,21 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
     </td>
   </tr>
 </table>
+
 </div>
 
 <br/>
 
 <h2>⚡ GitHub Stats</h2>
+
 <div align="center">
   <a href="https://github.com/Whitemes/Whitemes/actions/workflows/snake.yml">
     <img src="https://github.com/Whitemes/Whitemes/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <table border="0" width="100%">
     <tr>
