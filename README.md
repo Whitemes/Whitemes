@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;Full-Stack+Software+Engineer;Building+AI-Powered+Solutions;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;Full-Stack+Software+Engineer;" alt="Typing SVG"/>
   <h3>
     🚀 Full-Stack Engineer | Apprentice @ <a href="https://worldline.com/" target="_blank">Worldline</a>
   </h3>
@@ -7,7 +7,7 @@
        <a href="https://whitemes.dev/"> My PORTFOLIO</a>
   </h2>
   <p>
-    <i>Building <b>Full-Stack Applications</b> enhanced with <b>Generative AI</b>.</i>
+    <i>Building <b>Full-Stack Applications</b> with <b>AI Integration</b>.</i>
   </p>
   <p>
     <a href="https://linkedin.com/in/johnny-ramananjatovo" target="_blank">
@@ -23,14 +23,15 @@
     </a>
   </p>
 </div>
+
 <br/>
 
 ## 👨‍💻 About Me
 
-I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at **Worldline** (European Leader in Payments). I build full-stack applications and integrate **Generative AI** to automate and optimize complex workflows.
+I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at **Worldline** (European Leader in Payments). I build full-stack applications and integrate **existing AI solutions** (LLM agents, RAG, API orchestration) to automate and optimize enterprise workflows.
 
-* 🔭 **Current Focus:** Developing **AI-assisted Code Review systems** & automating SAP processes.
-* 🌱 **Learning:** Multi-agent orchestration & Cloud Architecture (GCP).
+* 🔭 **Current Focus:** Designing an **AI-assisted Code Review pipeline** (AIRA) & maintaining SAP ECC environments.
+* 🌱 **Learning:** LangChain, LangGraph & Cloud Architecture (GCP).
 * 🎓 **Education:** Eng. Degree at **ESIEE Paris** | Licence at **CNAM** (16.4/20).
 * 🌍 **Languages:** 🇫🇷 Native | 🇬🇧 Fluent (TOEIC 925) | 🇲🇬 Native.
 
@@ -40,10 +41,10 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
 
 <div align="center">
 
-| **Backend & Core** | **GenAI & Integration** | **SAP & Enterprise** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,python,kotlin,c,cs&perline=3" /> | <img src="https://img.shields.io/badge/GenAI-Agents-00A67E?style=flat-square&logo=openai&logoColor=white" /><br/><img src="https://img.shields.io/badge/Whisper-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/><img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/><img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> | <img src="https://img.shields.io/badge/SAP-ABAP-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-S%2F4HANA-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-CPI-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/CDS-Views-0070F2?style=flat-square&logo=sap&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,postgres&perline=3" /> |
-| <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,ts&perline=3" /> | <img src="https://img.shields.io/badge/n8n-Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" /><br/><img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" /> | | <img src="https://skillicons.dev/icons?i=gitlab,maven,idea,supabase,tailwind&perline=3" /> |
+| **Languages** | **Frameworks** | **GenAI & Integration** | **SAP** | **Cloud & DevOps** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,js,ts,python,kotlin&perline=3" /> | <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs&perline=2" /> | <img src="https://img.shields.io/badge/LLM_Integration-OpenAI_|_Claude-00A67E?style=flat-square&logo=openai&logoColor=white" /><br/><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br/><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /><br/><img src="https://img.shields.io/badge/RAG-Retrieval_Aug._Gen.-purple?style=flat-square" /><br/><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /><br/><img src="https://img.shields.io/badge/n8n-Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> | <img src="https://img.shields.io/badge/SAP-ABAP-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-Fiori-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-ECC6-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/SAP-CPI-0070F2?style=flat-square&logo=sap&logoColor=white" /><br/><img src="https://img.shields.io/badge/CDS-Views-0070F2?style=flat-square&logo=sap&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,postgres&perline=3" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,c,cs&perline=2" /> | <img src="https://skillicons.dev/icons?i=tailwind,threejs&perline=2" /><br/><img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white" /><br/><img src="https://img.shields.io/badge/HAPI_FHIR-FF6F00?style=flat-square" /> | <img src="https://img.shields.io/badge/NLP-DJL/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> | | <img src="https://skillicons.dev/icons?i=gitlab,maven,idea&perline=3" /> |
 
 </div>
 
@@ -51,136 +52,117 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
 
 ## 💼 Professional Experience
 
-### 🏢 Apprentice Full-Stack & AI Developer @ **Worldline**
+### 🏢 Apprentice SAP & AI Developer @ **Worldline**
 > *Sept 2023 – Present | European Leader in Payments*
 
-* 🤖 **AI-Assisted Code Review:** Designed and deployed a multi-agent pipeline (LLMs) for semantic code analysis and optimization.
+* 🤖 **AI Architecture:** Designing an automated Code Review pipeline (AIRA). Orchestrating AI agents (LLMs) for code optimization and Clean Code practices.
 * 🔄 **SAP Automation:** Built monitoring tools for SAP license management using **CDS Views** and reporting.
-* ⚙️ **Integration:** SAP CPI workflows with Groovy & migration ECC → S/4HANA.
+* ⚙️ **Integration:** SAP CPI workflows with Groovy.
+* 🔧 **Corrective Maintenance:** Support and bug fixing on SAP ECC environments. Post-production support.
 
 ---
 
 ## 📁 Featured Projects
 
 <div align="center">
-
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ Meeting Analyst AI</h3>
+      <h3 align="center">🏥 LITDHOSPI</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Whisper-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </div>
       <p align="center">
-        Automated pipeline: transcribes audio with Whisper, identifies speakers, generates summaries with action items synced to Notion.
+        Open source healthcare platform: professional verification (RPPS), medical recommendation engine, NLP matching via transformers. Microservices, API REST, FHIR integration. Functional lead, 7-dev team.
       </p>
       <p align="center">
-        <a href="https://github.com/Whitemes/Meeting_Analyst_AI">
-          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://meetinganalystai-production.up.railway.app">
-          <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=railway" />
+        <a href="https://gitlab.com/last-project-2025-litdhospi/lp_litdhospi">
+          <img src="https://img.shields.io/badge/Private_Repo-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Telegram Research Bot</h3>
+      <h3 align="center">🎮 BabaIsYou</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/GPT--4-00A67E?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </div>
       <p align="center">
-        On-demand research assistant on Telegram. Scrapes the web for news and synthesizes complex topics using GPT-4.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Whitemes/telegram-research-assistant">
-          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://t.me/ResearchAssistGenBot">
-          <img src="https://img.shields.io/badge/Try_Bot-26A5E4?style=for-the-badge&logo=telegram" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✋ Gesture Controlled 3D</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </div>
-      <p align="center">
-        Real-time 3D particle manipulation via hand gestures detected by webcam and TensorFlow.js hand tracking.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Whitemes/gesture-controlled-particles">
-          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://gesture-controlled-particles-production.up.railway.app">
-          <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=railway" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Baba Is You</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      </div>
-      <p align="center">
-        Full reimplementation with hexagonal architecture, real-time multiplayer via WebSockets, and cloud deployment.
+        Puzzle game reimplementation: dynamic rule engine, level parsing, and game logic.
       </p>
       <p align="center">
         <a href="https://github.com/Whitemes/BabaIsYou">
           <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://babaisyou-production.up.railway.app">
-          <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=railway" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 WordrawidZ</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+      </div>
+      <p align="center">
+        Educational Android game, MVVM architecture.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Whitemes/WordrawidZ">
+          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 ChatVaBien</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java_NIO-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      </div>
+      <p align="center">
+        Non-blocking messaging system: public messages, P2P private connections, file transfer, custom network protocol.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Whitemes/ChatVaBien">
+          <img src="https://img.shields.io/badge/Private_Repo-2ea44f?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔄 Content Remix AI</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Agent-00A67E?style=flat-square&logo=openai&logoColor=white" />
-      </div>
-      <p align="center">
-        Content repurposing engine: transforms blog posts into Twitter threads and video scripts using AI agents.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Whitemes/Social_Media_Repurposer">
-          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://socialmediarepurposer-production.up.railway.app">
-          <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=railway" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">⏱️ Anti-Procrastination Cockpit</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </div>
       <p align="center">
-        Minimalist productivity dashboard: Big 3 tasks, Pomodoro timer and habit tracker.
+        Personal productivity dashboard.
       </p>
       <p align="center">
         <a href="https://github.com/Whitemes/Anti-Procrastination-Cockpit">
           <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://anti-procrastination-cockpit-production.up.railway.app">
-          <img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=railway" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Big Data & Kafka</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </div>
+      <p align="center">
+        Apache Kafka setup and operation, data streaming pipelines.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Whitemes/BigData-Kafka">
+          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
   </tr>
 </table>
-
 </div>
 
 <br/>
