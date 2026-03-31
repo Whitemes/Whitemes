@@ -142,7 +142,7 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
       </p>
       <p align="center">
         <a href="https://github.com/Whitemes/Anti-Procrastination-Cockpit">
-          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/Private_Repo-2ea44f?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
@@ -157,7 +157,7 @@ I am a **5th Year Engineering Student** at **ESIEE Paris**, currently working at
       </p>
       <p align="center">
         <a href="https://github.com/Whitemes/BigData-Kafka">
-          <img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/Private_Repo-2ea44f?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
