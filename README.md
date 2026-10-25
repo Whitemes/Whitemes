@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software & AI Engineer**, graduated from **ESIEE Paris** (2026) after three years as an apprentice **SAP & AI developer** at **Worldline**, a European payments group. I build applications in Java, Python and TypeScript, and I integrate LLMs into enterprise workflows with rules, tests and guardrails around them.
+I am a **AI Engineer**, graduated from **ESIEE Paris** (2026) after three years as an apprentice **SAP & AI developer** at **Worldline**, a European payments group. I build applications in Java, Python and TypeScript, and I integrate LLMs into enterprise workflows with rules, tests and guardrails around them.
 
 * 🔭 **Recent work:** AIRA, a performance-debt analysis tool for ABAP code on S/4HANA: the rules decide, the LLM explains.
 * 🌱 **Next:** Specialised Master's in **Data & Generative AI Engineering** at **EFREI** (work-study), from January 2027.
