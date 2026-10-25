@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO;Software+%26+AI+Engineer;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;I'm+Johnny+RAMANANJATOVO+%AI+Engineer;" alt="Typing SVG"/>
   <h3>
     🚀 AI Engineer | ESIEE Paris graduate (2026)
   </h3>
